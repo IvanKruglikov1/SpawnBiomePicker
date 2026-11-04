@@ -1,0 +1,16 @@
+{
+  "setspawnbiome.button.spawn_biome": "Біом появи",
+  "setspawnbiome.button.spawn_biome_value": "Біом появи: %s",
+  "setspawnbiome.screen.title": "Біом появи",
+  "setspawnbiome.screen.search": "Пошук біому...",
+  "setspawnbiome.screen.default": "За замовчуванням (звичайна поява)",
+  "setspawnbiome.message.not_found": "Біом «%s» не знайдено в радіусі %s блоків. Точку появи залишено за замовчуванням.",
+  "setspawnbiome.configuration.title": "Налаштування Spawn Biome Picker",
+  "setspawnbiome.configuration.searchRadius": "Радіус пошуку",
+  "setspawnbiome.configuration.searchRadius.tooltip": "На яку відстань (у блоках) шукати обраний біом. Чим більше, тим довше.",
+  "setspawnbiome.button.spawn_biome_multi": "Біом появи: обрано %s",
+  "setspawnbiome.screen.experimental": "Вибір кількох біомів — експериментальна функція",
+  "setspawnbiome.message.not_found_multi": "Не вдалося знайти місце з біомами %s в радіусі %s блоків. Точку появи залишено за замовчуванням.",
+  "setspawnbiome.configuration.combinationDistance": "Відстань комбінації",
+  "setspawnbiome.configuration.combinationDistance.tooltip": "Експериментально: наскільки близько (у блоках) до точки появи має бути кожен обраний біом."
+}

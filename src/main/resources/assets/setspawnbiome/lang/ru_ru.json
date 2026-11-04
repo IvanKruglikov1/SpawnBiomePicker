@@ -1,0 +1,16 @@
+{
+ "setspawnbiome.button.spawn_biome": "Биом спавна",
+ "setspawnbiome.button.spawn_biome_value": "Биом спавна: %s",
+ "setspawnbiome.screen.title": "Биом спавна",
+ "setspawnbiome.screen.search": "Поиск биома...",
+ "setspawnbiome.screen.default": "По умолчанию (обычный спавн)",
+ "setspawnbiome.message.not_found": "Биом «%s» не найден в радиусе %s блоков. Спавн оставлен по умолчанию.",
+ "setspawnbiome.configuration.title": "Настройки Spawn Biome Picker",
+ "setspawnbiome.configuration.searchRadius": "Радиус поиска",
+ "setspawnbiome.configuration.searchRadius.tooltip": "Как далеко (в блоках) искать выбранный биом. Чем больше, тем дольше загрузка.",
+ "setspawnbiome.button.spawn_biome_multi": "Биом спавна: выбрано %s",
+ "setspawnbiome.screen.experimental": "Выбор нескольких биомов — экспериментальная функция",
+ "setspawnbiome.message.not_found_multi": "Не удалось найти место с биомами %s в радиусе %s блоков. Спавн оставлен по умолчанию.",
+ "setspawnbiome.configuration.combinationDistance": "Расстояние комбинации",
+ "setspawnbiome.configuration.combinationDistance.tooltip": "Экспериментально: насколько близко (в блоках) к точке спавна должен быть каждый выбранный биом."
+}

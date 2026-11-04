@@ -1,0 +1,16 @@
+{
+  "setspawnbiome.button.spawn_biome": "Spawn-Biom",
+  "setspawnbiome.button.spawn_biome_value": "Spawn-Biom: %s",
+  "setspawnbiome.screen.title": "Spawn-Biom",
+  "setspawnbiome.screen.search": "Biom suchen...",
+  "setspawnbiome.screen.default": "Standard (normaler Spawn)",
+  "setspawnbiome.message.not_found": "Das Biom „%s“ wurde im Umkreis von %s Blöcken nicht gefunden. Der Spawn bleibt am Standardort.",
+  "setspawnbiome.configuration.title": "Spawn Biome Picker – Einstellungen",
+  "setspawnbiome.configuration.searchRadius": "Suchradius",
+  "setspawnbiome.configuration.searchRadius.tooltip": "Wie weit (in Blöcken) nach dem gewählten Biom gesucht wird. Größere Werte dauern länger.",
+  "setspawnbiome.button.spawn_biome_multi": "Spawn-Biom: %s ausgewählt",
+  "setspawnbiome.screen.experimental": "Die Auswahl mehrerer Biome ist experimentell",
+  "setspawnbiome.message.not_found_multi": "Im Umkreis von %2$s Blöcken wurde kein Ort mit den Biomen %1$s gefunden. Der Spawn bleibt am Standardort.",
+  "setspawnbiome.configuration.combinationDistance": "Kombinationsabstand",
+  "setspawnbiome.configuration.combinationDistance.tooltip": "Experimentell: Wie nah (in Blöcken) jedes gewählte Biom am Spawnpunkt liegen muss."
+}
