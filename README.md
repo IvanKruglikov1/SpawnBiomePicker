@@ -1,25 +1,27 @@
+# Spawn Biome Picker
 
-Installation information
-=======
+Choose which biome you spawn in when creating a new world.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+**NeoForge 1.21.1** · Singleplayer · [Modrinth](https://modrinth.com/mod/spawnbiomepicker)
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+## Features
+- Searchable biome list on the **World** tab of the Create World screen
+- Select several biomes at once (experimental)
+- Configurable search radius, with an in-game config screen (Mods → Spawn Biome Picker → Config)
+- Translated into 13 languages
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+## Installation
+1. Install NeoForge for Minecraft 1.21.1
+2. Put the mod jar into the `mods` folder
+3. Create a new world, open the **World** tab and press **Spawn Biome**
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+## Notes
+- The choice applies only when the world is created
+- If the biome isn't found within the search radius, you spawn normally and get a chat message
+- Cave biomes put you on the surface above them
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+## Translations
+Translations are welcome. Copy `en_us.json` from
+`src/main/resources/assets/setspawnbiome/lang/`, translate it and open a pull request.
+
+## Building
