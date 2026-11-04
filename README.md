@@ -29,4 +29,4 @@ Translations are welcome. Copy `en_us.json` from
 The jar appears in `build/libs/`.
 
 ## License
-MIT
+MIT, see `LICENSE`. Build template files are under the NeoForged MDK license, see `TEMPLATE_LICENSE.txt`.
