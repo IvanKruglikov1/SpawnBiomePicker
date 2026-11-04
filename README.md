@@ -25,3 +25,8 @@ Translations are welcome. Copy `en_us.json` from
 `src/main/resources/assets/setspawnbiome/lang/`, translate it and open a pull request.
 
 ## Building
+./gradlew build
+The jar appears in `build/libs/`.
+
+## License
+MIT
