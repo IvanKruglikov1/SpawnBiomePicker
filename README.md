@@ -2,7 +2,7 @@
 
 Choose which biome you spawn in when creating a new world.
 
-**NeoForge 1.21.1** · Singleplayer · [Modrinth](https://modrinth.com/mod/setspawnbiome) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spawnbiomepicker)
+**NeoForge 1.21.1** · Singleplayer · [Modrinth](https://modrinth.com/mod/setspawnbiome) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spawn-biome-picker)
 
 ## Features
 - Searchable biome list on the **World** tab of the Create World screen
