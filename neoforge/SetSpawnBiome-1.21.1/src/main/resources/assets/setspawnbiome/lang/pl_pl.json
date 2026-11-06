@@ -1,0 +1,16 @@
+{
+  "setspawnbiome.button.spawn_biome": "Biom odradzania",
+  "setspawnbiome.button.spawn_biome_value": "Biom odradzania: %s",
+  "setspawnbiome.screen.title": "Biom odradzania",
+  "setspawnbiome.screen.search": "Szukaj biomu...",
+  "setspawnbiome.screen.default": "Domyślny (normalne odradzanie)",
+  "setspawnbiome.message.not_found": "Nie znaleziono biomu „%s” w promieniu %s bloków. Punkt odradzania pozostał w domyślnym miejscu.",
+  "setspawnbiome.configuration.title": "Ustawienia Spawn Biome Picker",
+  "setspawnbiome.configuration.searchRadius": "Promień wyszukiwania",
+  "setspawnbiome.configuration.searchRadius.tooltip": "Jak daleko (w blokach) szukać wybranego biomu. Większe wartości trwają dłużej.",
+  "setspawnbiome.button.spawn_biome_multi": "Biom odradzania: wybrano %s",
+  "setspawnbiome.screen.experimental": "Wybór kilku biomów jest funkcją eksperymentalną",
+  "setspawnbiome.message.not_found_multi": "Nie znaleziono miejsca z biomami %s w promieniu %s bloków. Punkt odradzania pozostał w domyślnym miejscu.",
+  "setspawnbiome.configuration.combinationDistance": "Odległość kombinacji",
+  "setspawnbiome.configuration.combinationDistance.tooltip": "Eksperymentalne: jak blisko (w blokach) punktu odradzania musi znajdować się każdy wybrany biom."
+}

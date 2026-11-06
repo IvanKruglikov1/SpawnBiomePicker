@@ -1,0 +1,16 @@
+{
+  "setspawnbiome.button.spawn_biome": "Bioma di spawn",
+  "setspawnbiome.button.spawn_biome_value": "Bioma di spawn: %s",
+  "setspawnbiome.screen.title": "Bioma di spawn",
+  "setspawnbiome.screen.search": "Cerca bioma...",
+  "setspawnbiome.screen.default": "Predefinito (spawn normale)",
+  "setspawnbiome.message.not_found": "Il bioma «%s» non è stato trovato entro %s blocchi. Lo spawn è rimasto nella posizione predefinita.",
+  "setspawnbiome.configuration.title": "Impostazioni di Spawn Biome Picker",
+  "setspawnbiome.configuration.searchRadius": "Raggio di ricerca",
+  "setspawnbiome.configuration.searchRadius.tooltip": "Fino a che distanza (in blocchi) cercare il bioma scelto. Valori più alti richiedono più tempo.",
+  "setspawnbiome.button.spawn_biome_multi": "Bioma di spawn: %s selezionati",
+  "setspawnbiome.screen.experimental": "La selezione di più biomi è sperimentale",
+  "setspawnbiome.message.not_found_multi": "Impossibile trovare un luogo con i biomi %s entro %s blocchi. Lo spawn è rimasto nella posizione predefinita.",
+  "setspawnbiome.configuration.combinationDistance": "Distanza di combinazione",
+  "setspawnbiome.configuration.combinationDistance.tooltip": "Sperimentale: a quale distanza (in blocchi) dal punto di spawn deve trovarsi ogni bioma scelto."
+}

@@ -1,0 +1,16 @@
+{
+  "setspawnbiome.button.spawn_biome": "スポーンバイオーム",
+  "setspawnbiome.button.spawn_biome_value": "スポーンバイオーム: %s",
+  "setspawnbiome.screen.title": "スポーンバイオーム",
+  "setspawnbiome.screen.search": "バイオームを検索...",
+  "setspawnbiome.screen.default": "デフォルト（通常のスポーン）",
+  "setspawnbiome.message.not_found": "バイオーム「%s」は半径 %s ブロック以内に見つかりませんでした。スポーン地点はデフォルトのままです。",
+  "setspawnbiome.configuration.title": "Spawn Biome Picker 設定",
+  "setspawnbiome.configuration.searchRadius": "検索半径",
+  "setspawnbiome.configuration.searchRadius.tooltip": "選択したバイオームを探す最大距離（ブロック単位）。大きいほど時間がかかります。",
+ "setspawnbiome.button.spawn_biome_multi": "スポーンバイオーム: %s個選択中",
+ "setspawnbiome.screen.experimental": "複数のバイオームの選択は実験的機能です",
+ "setspawnbiome.message.not_found_multi": "バイオーム %s が揃う場所は半径 %s ブロック以内に見つかりませんでした。スポーン地点はデフォルトのままです。",
+ "setspawnbiome.configuration.combinationDistance": "組み合わせ距離",
+ "setspawnbiome.configuration.combinationDistance.tooltip": "実験的: 選択した各バイオームがスポーン地点から何ブロック以内にある必要があるか。"
+}

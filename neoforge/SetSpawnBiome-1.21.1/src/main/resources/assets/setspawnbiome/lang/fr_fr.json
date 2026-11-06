@@ -1,0 +1,16 @@
+{
+  "setspawnbiome.button.spawn_biome": "Biome d'apparition",
+  "setspawnbiome.button.spawn_biome_value": "Biome d'apparition : %s",
+  "setspawnbiome.screen.title": "Biome d'apparition",
+  "setspawnbiome.screen.search": "Rechercher un biome...",
+  "setspawnbiome.screen.default": "Par défaut (apparition normale)",
+  "setspawnbiome.message.not_found": "Le biome « %s » est introuvable dans un rayon de %s blocs. L'apparition reste à l'emplacement par défaut.",
+  "setspawnbiome.configuration.title": "Paramètres de Spawn Biome Picker",
+  "setspawnbiome.configuration.searchRadius": "Rayon de recherche",
+  "setspawnbiome.configuration.searchRadius.tooltip": "Distance (en blocs) jusqu'où chercher le biome choisi. Plus elle est grande, plus c'est long.",
+  "setspawnbiome.button.spawn_biome_multi": "Biome d'apparition : %s sélectionné(s)",
+  "setspawnbiome.screen.experimental": "La sélection de plusieurs biomes est expérimentale",
+  "setspawnbiome.message.not_found_multi": "Aucun endroit avec les biomes %s n'a été trouvé dans un rayon de %s blocs. L'apparition reste à l'emplacement par défaut.",
+  "setspawnbiome.configuration.combinationDistance": "Distance de combinaison",
+  "setspawnbiome.configuration.combinationDistance.tooltip": "Expérimental : à quelle distance (en blocs) du point d'apparition chaque biome choisi doit se trouver."
+}

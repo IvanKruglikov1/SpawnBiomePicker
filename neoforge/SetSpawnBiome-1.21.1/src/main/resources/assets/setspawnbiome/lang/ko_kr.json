@@ -1,0 +1,16 @@
+{
+  "setspawnbiome.button.spawn_biome": "스폰 바이옴",
+  "setspawnbiome.button.spawn_biome_value": "스폰 바이옴: %s",
+  "setspawnbiome.screen.title": "스폰 바이옴",
+  "setspawnbiome.screen.search": "바이옴 검색...",
+  "setspawnbiome.screen.default": "기본값 (일반 스폰)",
+  "setspawnbiome.message.not_found": "'%s' 바이옴을 반경 %s블록 내에서 찾을 수 없습니다. 스폰 지점은 기본 위치로 유지됩니다.",
+  "setspawnbiome.configuration.title": "Spawn Biome Picker 설정",
+  "setspawnbiome.configuration.searchRadius": "검색 반경",
+  "setspawnbiome.configuration.searchRadius.tooltip": "선택한 바이옴을 찾을 최대 거리(블록 단위)입니다. 값이 클수록 오래 걸립니다.",
+  "setspawnbiome.button.spawn_biome_multi": "스폰 바이옴: %s개 선택됨",
+  "setspawnbiome.screen.experimental": "여러 바이옴 선택은 실험적 기능입니다",
+  "setspawnbiome.message.not_found_multi": "바이옴 %s 조합이 있는 장소를 반경 %s블록 내에서 찾을 수 없습니다. 스폰 지점은 기본 위치로 유지됩니다.",
+  "setspawnbiome.configuration.combinationDistance": "조합 거리",
+  "setspawnbiome.configuration.combinationDistance.tooltip": "실험적: 선택한 각 바이옴이 스폰 지점에서 몇 블록 이내에 있어야 하는지."
+}

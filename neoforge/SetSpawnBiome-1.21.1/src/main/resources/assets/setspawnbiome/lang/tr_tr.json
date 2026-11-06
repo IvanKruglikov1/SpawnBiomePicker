@@ -1,0 +1,16 @@
+{
+  "setspawnbiome.button.spawn_biome": "Doğma Biyomu",
+  "setspawnbiome.button.spawn_biome_value": "Doğma Biyomu: %s",
+  "setspawnbiome.screen.title": "Doğma Biyomu",
+  "setspawnbiome.screen.search": "Biyom ara...",
+  "setspawnbiome.screen.default": "Varsayılan (normal doğma)",
+  "setspawnbiome.message.not_found": "“%s” biyomu %s blok yarıçapında bulunamadı. Doğma noktası varsayılan konumda bırakıldı.",
+  "setspawnbiome.configuration.title": "Spawn Biome Picker Ayarları",
+  "setspawnbiome.configuration.searchRadius": "Arama yarıçapı",
+  "setspawnbiome.configuration.searchRadius.tooltip": "Seçilen biyomun ne kadar uzağa (blok cinsinden) aranacağı. Büyük değerler daha uzun sürer.",
+  "setspawnbiome.button.spawn_biome_multi": "Doğma Biyomu: %s seçildi",
+  "setspawnbiome.screen.experimental": "Birden fazla biyom seçmek deneyseldir",
+  "setspawnbiome.message.not_found_multi": "%s biyomlarına sahip bir yer %s blok yarıçapında bulunamadı. Doğma noktası varsayılan konumda bırakıldı.",
+  "setspawnbiome.configuration.combinationDistance": "Kombinasyon mesafesi",
+  "setspawnbiome.configuration.combinationDistance.tooltip": "Deneysel: seçilen her biyomun doğma noktasına en fazla kaç blok uzakta olabileceği."
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "setspawnbiome",
+  "version": "${version}",
+  "name": "Spawn Biome Picker",
+  "description": "Choose the biome you spawn in when creating a new world.",
+  "authors": ["BatonMC"],
+  "contact": {
+    "sources": "https://github.com/IvanKruglikov1/SpawnBiomePicker",
+    "issues": "https://github.com/IvanKruglikov1/SpawnBiomePicker/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/spawn-biome-picker/logo.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.batonmc.setspawnbiome.SetSpawnBiomeClient"]
+  },
+  "mixins": ["setspawnbiome.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

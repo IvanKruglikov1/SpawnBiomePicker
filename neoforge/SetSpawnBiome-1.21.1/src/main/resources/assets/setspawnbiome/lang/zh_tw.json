@@ -1,0 +1,16 @@
+{
+  "setspawnbiome.button.spawn_biome": "出生生物群系",
+  "setspawnbiome.button.spawn_biome_value": "出生生物群系：%s",
+  "setspawnbiome.screen.title": "出生生物群系",
+  "setspawnbiome.screen.search": "搜尋生物群系...",
+  "setspawnbiome.screen.default": "預設（一般出生）",
+  "setspawnbiome.message.not_found": "找不到生物群系「%s」（搜尋半徑 %s 格）。出生點維持在預設位置。",
+  "setspawnbiome.configuration.title": "Spawn Biome Picker 設定",
+  "setspawnbiome.configuration.searchRadius": "搜尋半徑",
+  "setspawnbiome.configuration.searchRadius.tooltip": "搜尋所選生物群系的最大距離（單位：格）。數值越大，耗時越長。",
+  "setspawnbiome.button.spawn_biome_multi": "出生生物群系：已選擇 %s 個",
+  "setspawnbiome.screen.experimental": "選擇多個生物群系為實驗性功能",
+  "setspawnbiome.message.not_found_multi": "找不到包含生物群系 %s 的位置（搜尋半徑 %s 格）。出生點維持在預設位置。",
+  "setspawnbiome.configuration.combinationDistance": "組合距離",
+  "setspawnbiome.configuration.combinationDistance.tooltip": "實驗性：每個所選生物群系與出生點的最大距離（單位：格）。"
+}
